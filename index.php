@@ -1,2 +1,2 @@
 <?php
-echo 'it works';
+echo 'it works - new feature';
